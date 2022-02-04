@@ -1,5 +1,6 @@
 body{
-    background-color:black ;
+    background-color:rgba(0, 0, 0, 0.76) ;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .title.index{
     text-align: center;
@@ -13,17 +14,19 @@ body{
 }
 .recipelink{
     font-size: 25px;
-    color: rgb(128, 128, 128);
+    color: rgb(199, 199, 199);
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
-.tit{
-    font-family: Arial, Helvetica, sans-serif;
+h2{
     color: tomato;
 }
 h3{
-    color: turquoise;
+    color: rgb(255, 174, 0);
 }
-.dada{
-    color: blueviolet;
+p{
+    color: white;
+}
+li{
+    color: whitesmoke;
 }
